@@ -1,0 +1,21 @@
+body{
+    background-image: url('../images/crypto1.jpg');
+    
+    background-repeat: repeat;
+}
+table{
+    background-color: #dfeedf;
+    opacity: 0.9;
+}
+#mag{
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 20px;
+    color: white;
+}
+hr{
+    margin-bottom: 0;
+}
+h4{
+    color: white;
+}
